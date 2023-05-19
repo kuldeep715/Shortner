@@ -16,7 +16,7 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 <b>- This Is Private Code </b>
 <b>DEVS:</b>
-- <a href=https://t.me/Cyniteofficial>Cynite</a>"""
+- <a href=https://t.me/Ammi_jon>ammi jon</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
